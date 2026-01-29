@@ -16,6 +16,8 @@ I write about AI, software engineering, and how technology intersects with insti
 
 ## Recent Projects
 
+🤖 [godiscord](https://github.com/mtreilly/godiscord) — Go SDK for Discord bots and webhooks
+
 📄 [goarxiv](https://github.com/mtreilly/goarxiv) — Go SDK for the arXiv API
 
 🔌 [freeport](https://github.com/mtreilly/freeport) — Lazily finding free ports
