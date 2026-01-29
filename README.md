@@ -4,12 +4,15 @@ Software engineer exploring AI, learning systems, institutions, and economic his
 
 Currently building AI-assisted development tools and thinking through how technology shapes—and is shaped by—the systems we build around it.
 
+## Blog
+
+I write about AI, software engineering, and how technology intersects with institutions and economic systems at [actuallymaybe.com](https://actuallymaybe.com).
+
 ## Connect
 
 [![Bluesky](https://img.shields.io/badge/-Bluesky-0085ff?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/michealrs.bsky.social)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MichealReilly)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michealreilly/)
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=rss&logoColor=white)](https://actuallymaybe.com)
 
 ## Recent Projects
 
