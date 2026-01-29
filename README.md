@@ -19,8 +19,6 @@ Currently building AI-assisted development tools and thinking through how techno
 
 💬 [agent-discord](https://github.com/mtreilly/agent-discord) — Discord agent integration
 
-✏️ [agent-editor](https://github.com/mtreilly/agent-editor) — AI-assisted code editor
-
 🧠 [MemoryWatch](https://github.com/mtreilly/MemoryWatch) — Watching memory on my Mac
 
 ## Tech Stack
