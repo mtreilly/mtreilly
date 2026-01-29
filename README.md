@@ -22,8 +22,6 @@ I write about AI, software engineering, and how technology intersects with insti
 
 🔌 [freeport](https://github.com/mtreilly/freeport) — Lazily finding free ports
 
-💬 [agent-discord](https://github.com/mtreilly/agent-discord) — Discord agent integration
-
 🧠 [MemoryWatch](https://github.com/mtreilly/MemoryWatch) — Watching memory on my Mac
 
 ## Tech Stack
