@@ -13,27 +13,15 @@ Currently building AI-assisted development tools and thinking through how techno
 
 ## Recent Projects
 
-🤖 [agent-builder](https://github.com/mtreilly/agent-builder) — Experiment in controlling multiple LLMs
-🌐 [browser-automation](https://github.com/mtreilly/browser-automation) — Simple browser automation tool for LLMs
-🧠 [MemoryWatch](https://github.com/mtreilly/MemoryWatch) — Watching memory on my Mac
-📁 [dot_claude](https://github.com/mtreilly/dot_claude) — Claude configuration and settings
-⚙️ [agent-settings](https://github.com/mtreilly/agent-settings) — Agent configuration management
-🎯 [agent-coordinator](https://github.com/mtreilly/agent-coordinator) — Multi-agent coordination
-✨ [vibe-engineering](https://github.com/mtreilly/vibe-engineering) — Context-aware engineering tools
-💬 [agent-discord](https://github.com/mtreilly/agent-discord) — Discord agent integration
-🏗️ [vsware-stack](https://github.com/mtreilly/vsware-stack) — VSWare development stack
-✏️ [agent-editor](https://github.com/mtreilly/agent-editor) — AI-assisted code editor
-🎙️ [podreport](https://github.com/mtreilly/podreport) — Podcast reporting tool
-🔌 [freeport](https://github.com/mtreilly/freeport) — Lazily finding free ports
-📊 [policy-monitor](https://github.com/mtreilly/policy-monitor) — Policy monitoring system
-🗄️ [data-engine](https://github.com/mtreilly/data-engine) — Data processing engine
-📚 [agentic-anki](https://github.com/mtreilly/agentic-anki) — AI-powered Anki workflows
-👁️ [attention](https://github.com/mtreilly/attention) — Attention mechanisms exploration
-📝 [scribe](https://github.com/mtreilly/scribe) — Writing and transcription tool
-🌉 [specbridge](https://github.com/mtreilly/specbridge) — Specification bridging utility
-⌨️ [vibe-cli](https://github.com/mtreilly/vibe-cli) — Vibe engineering CLI
-🦀 [vibe-plugin-sdk-rust](https://github.com/mtreilly/vibe-plugin-sdk-rust) — Rust SDK for vibe plugins
 📄 [goarxiv](https://github.com/mtreilly/goarxiv) — Go SDK for the arXiv API
+
+🔌 [freeport](https://github.com/mtreilly/freeport) — Lazily finding free ports
+
+💬 [agent-discord](https://github.com/mtreilly/agent-discord) — Discord agent integration
+
+✏️ [agent-editor](https://github.com/mtreilly/agent-editor) — AI-assisted code editor
+
+🧠 [MemoryWatch](https://github.com/mtreilly/MemoryWatch) — Watching memory on my Mac
 
 ## Tech Stack
 
