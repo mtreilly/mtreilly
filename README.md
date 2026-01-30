@@ -15,9 +15,9 @@ Building AI-assisted development tools and thinking through how technology shape
 #### Recent Projects
 
 ⚡ [**arc**](https://github.com/mtreilly/arc) · Arc core package
-> 🧰 [arc-sdk](https://github.com/mtreilly/arc-sdk) · SDK package
-> · 🖥️ [arc-tmux](https://github.com/mtreilly/arc-tmux) · tmux control surface
-> · 📚 [arc-arxiv](https://github.com/mtreilly/arc-arxiv) · arXiv paper management
+  - 🧰 [arc-sdk](https://github.com/mtreilly/arc-sdk) · SDK package
+  - 🖥️ [arc-tmux](https://github.com/mtreilly/arc-tmux) · tmux control surface
+  - 📚 [arc-arxiv](https://github.com/mtreilly/arc-arxiv) · arXiv paper management
 
 🏔️ [**mountain**](https://github.com/mtreilly/mountain) · Interactive visualization for exploring economic convergence between countries
 
