@@ -1,4 +1,6 @@
-# Hi, I'm Micheál
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,100:F59E0B&height=120&section=header" width="100%"/>
+
+# Hi, I'm Micheál 🇮🇪 🇵🇱 🇪🇺
 
 Software engineer exploring AI, learning systems, institutions, and economic history.
 
@@ -32,3 +34,5 @@ I write about AI, software engineering, and how technology intersects with insti
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,100:F59E0B&height=80&section=footer" width="100%"/>
