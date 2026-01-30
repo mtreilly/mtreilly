@@ -15,9 +15,28 @@ Building AI-assisted development tools and thinking through how technology shape
 #### Recent Projects
 
 ⚡ [**arc**](https://github.com/mtreilly/arc) · Arc core package
-  - 🧰 [arc-sdk](https://github.com/mtreilly/arc-sdk) · SDK package
-  - 🖥️ [arc-tmux](https://github.com/mtreilly/arc-tmux) · tmux control surface
+  - 🤖 [arc-ai](https://github.com/mtreilly/arc-ai) · AI integration
+  - 📱 [arc-apps](https://github.com/mtreilly/arc-apps) · Applications
   - 📚 [arc-arxiv](https://github.com/mtreilly/arc-arxiv) · arXiv paper management
+  - 💬 [arc-ask](https://github.com/mtreilly/arc-ask) · Query interface
+  - ✍️ [arc-blog](https://github.com/mtreilly/arc-blog) · Blog tooling
+  - 📝 [arc-commit](https://github.com/mtreilly/arc-commit) · Git commits
+  - ⚙️ [arc-config](https://github.com/mtreilly/arc-config) · Configuration
+  - 🗄️ [arc-db](https://github.com/mtreilly/arc-db) · Database
+  - 💜 [arc-discord](https://github.com/mtreilly/arc-discord) · Discord integration
+  - 🎮 [arc-emulator](https://github.com/mtreilly/arc-emulator) · Emulator
+  - 🌍 [arc-env](https://github.com/mtreilly/arc-env) · Environment
+  - 🔀 [arc-git](https://github.com/mtreilly/arc-git) · Git operations
+  - 📥 [arc-import](https://github.com/mtreilly/arc-import) · Import tools
+  - 🔍 [arc-index](https://github.com/mtreilly/arc-index) · Indexing
+  - 🚀 [arc-init](https://github.com/mtreilly/arc-init) · Initialization
+  - 📖 [arc-library](https://github.com/mtreilly/arc-library) · Research library
+  - 💭 [arc-prompt](https://github.com/mtreilly/arc-prompt) · Prompts
+  - 📦 [arc-repo](https://github.com/mtreilly/arc-repo) · Repository tools
+  - 🧰 [arc-sdk](https://github.com/mtreilly/arc-sdk) · SDK package
+  - 🔄 [arc-sessions](https://github.com/mtreilly/arc-sessions) · Sessions
+  - 🖥️ [arc-tmux](https://github.com/mtreilly/arc-tmux) · tmux control surface
+  - ⚡ [arc-workflow](https://github.com/mtreilly/arc-workflow) · Workflows
 
 🏔️ [**mountain**](https://github.com/mtreilly/mountain) · Interactive visualization for exploring economic convergence between countries
 
