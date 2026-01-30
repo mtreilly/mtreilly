@@ -16,6 +16,8 @@ I write about AI, software engineering, and how technology intersects with insti
 
 ## Recent Projects
 
+🏔️ [mountain](https://github.com/mtreilly/mountain) — Interactive visualization for exploring economic convergence between countries
+
 🤖 [godiscord](https://github.com/mtreilly/godiscord) — Go SDK for Discord bots and webhooks
 
 📄 [goarxiv](https://github.com/mtreilly/goarxiv) — Go SDK for the arXiv API
