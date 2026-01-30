@@ -16,6 +16,10 @@ Building AI-assisted development tools and thinking through how technology shape
 
 [**mountain**](https://github.com/mtreilly/mountain) · Interactive visualization for exploring economic convergence between countries
 
+[**arc-tmux**](https://github.com/mtreilly/arc-tmux) · Native tmux control surface for agent workflows
+
+[**arc-arxiv**](https://github.com/mtreilly/arc-arxiv) · CLI tool to fetch and manage arXiv papers with rich metadata
+
 [**godiscord**](https://github.com/mtreilly/godiscord) · Go SDK for Discord bots and webhooks
 
 [**goarxiv**](https://github.com/mtreilly/goarxiv) · Go SDK for the arXiv API
