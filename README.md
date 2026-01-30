@@ -14,20 +14,20 @@ Building AI-assisted development tools and thinking through how technology shape
 
 #### Recent Projects
 
-[**arc**](https://github.com/mtreilly/arc) · Arc core package
-> [arc-sdk](https://github.com/mtreilly/arc-sdk) · SDK package
-> · [arc-tmux](https://github.com/mtreilly/arc-tmux) · tmux control surface
-> · [arc-arxiv](https://github.com/mtreilly/arc-arxiv) · arXiv paper management
+⚡ [**arc**](https://github.com/mtreilly/arc) · Arc core package
+> 🧰 [arc-sdk](https://github.com/mtreilly/arc-sdk) · SDK package
+> · 🖥️ [arc-tmux](https://github.com/mtreilly/arc-tmux) · tmux control surface
+> · 📚 [arc-arxiv](https://github.com/mtreilly/arc-arxiv) · arXiv paper management
 
-[**mountain**](https://github.com/mtreilly/mountain) · Interactive visualization for exploring economic convergence between countries
+🏔️ [**mountain**](https://github.com/mtreilly/mountain) · Interactive visualization for exploring economic convergence between countries
 
-[**godiscord**](https://github.com/mtreilly/godiscord) · Go SDK for Discord bots and webhooks
+🤖 [**godiscord**](https://github.com/mtreilly/godiscord) · Go SDK for Discord bots and webhooks
 
-[**goarxiv**](https://github.com/mtreilly/goarxiv) · Go SDK for the arXiv API
+📄 [**goarxiv**](https://github.com/mtreilly/goarxiv) · Go SDK for the arXiv API
 
-[**freeport**](https://github.com/mtreilly/freeport) · Lazily finding free ports
+🔌 [**freeport**](https://github.com/mtreilly/freeport) · Lazily finding free ports
 
-[**MemoryWatch**](https://github.com/mtreilly/MemoryWatch) · Watching memory on my Mac
+🧠 [**MemoryWatch**](https://github.com/mtreilly/MemoryWatch) · Watching memory on my Mac
 
 ---
 
